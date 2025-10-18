@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-e%wmi)@=y5@5h+=a(3tc%!xsl&hky&(_5it^-zr%9kyicy9u(g
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['e-shop-p7t9.onrender.com']
+ALLOWED_HOSTS = ['https://e-shop-p7t9.onrender.com','e-shop-p7t9.onrender.com']
 CSRF_TRUSTED_ORIGINS = ['https://e-shop-p7t9.onrender.com']
 
 # Application definition
